@@ -1,6 +1,6 @@
 [submodule "kokkos_example/kokkos"]
-	path = kokkos_example/kokkos
+	path = examples/kokkos/kokkos
 	url = https://github.com/kokkos/kokkos.git
 [submodule "raja_example/CARE"]
-	path = raja_example/CARE
+	path = examples/raja/CARE
 	url = https://github.com/LLNL/CARE.git
